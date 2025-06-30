@@ -1,18 +1,23 @@
-## Hi there 👋
+<!-- README.md -->
+---
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+### Featured Projects
 
+-  [CocoBoard](https://cocoboard.jp)
+
+---
+
+### ⚡ GitHub Stats
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyatomaru&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kyatomaru&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=kyatomaru&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=monokai" />
+  <img alt="Top Langs" height="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyatomaru&count_private=true&show_icons=true&theme=monokai" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kyatomaru&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+---
+
+### 🌋 3D Grass Graph
+
+![3D GitHub Profile Graph](./profile-3d-contrib/profile-night-green.svg)
+
+---
+
