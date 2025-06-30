@@ -1,6 +1,4 @@
 <!-- README.md -->
----
-
 ### Featured Projects
 
 -  [CocoBoard](https://cocoboard.jp)
