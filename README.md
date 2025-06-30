@@ -13,11 +13,12 @@
   <img alt="Top Langs" height="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyatomaru&count_private=true&show_icons=true&theme=monokai" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kyatomaru&theme=monokai&column=-1
+)](https://github.com/kyatomaru/github-profile-trophy)
+
 ---
 
-### 🌋 3D Grass Graph
-
-![3D GitHub Profile Graph](./profile-3d-contrib/profile-night-green.svg)
-
+![](https://raw.githubusercontent.com/kyatomaru/kyatomaru/main/profile-3d-contrib/profile-season-animate.svg
+)
 ---
 
