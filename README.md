@@ -16,7 +16,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/kyatomaru/kyatomaru/main/profile-3d-contrib/profile-season-animate.svg
+![](https://raw.githubusercontent.com/kyatomaru/kyatomaru/main/profile-3d-contrib/profile-green-animate.svg
 )
 ---
 
