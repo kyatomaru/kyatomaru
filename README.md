@@ -2,6 +2,8 @@
 ### Featured Projects
 
 -  [CocoBoard](https://cocoboard.jp)
+-  [悪口診断](https://www.waruguchi16.jp/)
+-  [哲学診断](https://philosophical-diagnosis.vercel.app/)
 
 ---
 
